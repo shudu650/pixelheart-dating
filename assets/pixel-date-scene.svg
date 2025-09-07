@@ -1,0 +1,34 @@
+<svg width="64" height="32" viewBox="0 0 64 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Restaurant table scene -->
+  <!-- Table -->
+  <rect x="24" y="20" width="16" height="4" fill="#8B4513"/>
+  <rect x="26" y="24" width="2" height="6" fill="#654321"/>
+  <rect x="36" y="24" width="2" height="6" fill="#654321"/>
+  
+  <!-- Candle -->
+  <rect x="30" y="18" width="2" height="2" fill="#FFD700"/>
+  <rect x="31" y="16" width="2" height="2" fill="#FF4500"/>
+  
+  <!-- Wine glasses -->
+  <rect x="28" y="18" width="2" height="2" fill="#FF69B4"/>
+  <rect x="34" y="18" width="2" height="2" fill="#FF69B4"/>
+  
+  <!-- Left person (sitting) -->
+  <rect x="18" y="8" width="4" height="4" fill="#FFB3D9"/>
+  <rect x="16" y="12" width="8" height="2" fill="#FFB3D9"/>
+  <rect x="18" y="14" width="4" height="6" fill="#FFB3D9"/>
+  
+  <!-- Right person (sitting) -->
+  <rect x="42" y="8" width="4" height="4" fill="#FF6B9D"/>
+  <rect x="40" y="12" width="8" height="2" fill="#FF6B9D"/>
+  <rect x="42" y="14" width="4" height="6" fill="#FF6B9D"/>
+  
+  <!-- Hearts floating above -->
+  <rect x="20" y="4" width="2" height="2" fill="#FF1744"/>
+  <rect x="19" y="5" width="4" height="2" fill="#FF1744"/>
+  <rect x="20" y="7" width="2" height="2" fill="#FF1744"/>
+  
+  <rect x="42" y="2" width="2" height="2" fill="#FF1744"/>
+  <rect x="41" y="3" width="4" height="2" fill="#FF1744"/>
+  <rect x="42" y="5" width="2" height="2" fill="#FF1744"/>
+</svg>

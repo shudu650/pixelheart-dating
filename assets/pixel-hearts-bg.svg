@@ -1,0 +1,45 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pixel Heart Pattern Background -->
+  <defs>
+    <pattern id="pixelHearts" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+      <!-- Small pixel heart -->
+      <g fill="rgba(255,255,255,0.3)">
+        <!-- Heart shape made of pixels -->
+        <rect x="10" y="15" width="4" height="4"/>
+        <rect x="14" y="11" width="4" height="4"/>
+        <rect x="18" y="11" width="4" height="4"/>
+        <rect x="22" y="15" width="4" height="4"/>
+        <rect x="26" y="15" width="4" height="4"/>
+        <rect x="30" y="11" width="4" height="4"/>
+        <rect x="34" y="11" width="4" height="4"/>
+        <rect x="38" y="15" width="4" height="4"/>
+        
+        <rect x="10" y="19" width="4" height="4"/>
+        <rect x="14" y="19" width="4" height="4"/>
+        <rect x="18" y="19" width="4" height="4"/>
+        <rect x="22" y="19" width="4" height="4"/>
+        <rect x="26" y="19" width="4" height="4"/>
+        <rect x="30" y="19" width="4" height="4"/>
+        <rect x="34" y="19" width="4" height="4"/>
+        <rect x="38" y="19" width="4" height="4"/>
+        
+        <rect x="14" y="23" width="4" height="4"/>
+        <rect x="18" y="23" width="4" height="4"/>
+        <rect x="22" y="23" width="4" height="4"/>
+        <rect x="26" y="23" width="4" height="4"/>
+        <rect x="30" y="23" width="4" height="4"/>
+        <rect x="34" y="23" width="4" height="4"/>
+        
+        <rect x="18" y="27" width="4" height="4"/>
+        <rect x="22" y="27" width="4" height="4"/>
+        <rect x="26" y="27" width="4" height="4"/>
+        <rect x="30" y="27" width="4" height="4"/>
+        
+        <rect x="22" y="31" width="4" height="4"/>
+        <rect x="26" y="31" width="4" height="4"/>
+      </g>
+    </pattern>
+  </defs>
+  
+  <rect width="100" height="100" fill="url(#pixelHearts)"/>
+</svg>
